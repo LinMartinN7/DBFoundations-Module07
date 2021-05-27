@@ -1,7 +1,7 @@
 # DB Foundations Module 07 - SQL Functions
 
 ```markdown
-This website is to display Assignment 07's written paper for the IT Foundations 130 course at University of Washington.
+This website is to display Assignment 07's written paper for IT Foundations 130.
 ```
 
 ## Introduction
