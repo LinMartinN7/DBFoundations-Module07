@@ -1,9 +1,5 @@
 # DB Foundations Module 07 - SQL Functions
 
-```markdown
-This website is to display Assignment 07's written paper for IT Foundations 130.
-```
-
 ## Introduction
 This week in IT Foundations of Database Management, I learned about SQL functions. This included what functionality SQL functions add to a database, the different types of functions, and how to utilize functions by storing them within databases. I will demonstrate what I have learned by using references from this week’s coding assignment.
 
